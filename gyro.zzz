@@ -1,0 +1,8 @@
+pkgs:
+  bark.lang:
+    version: 0.0.0
+    source_url: "https://github.com/digitalcreature/bark.lang"
+
+    root: src/main.zig
+    files:
+      README.md
